@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#573fb5</color>
+    <color name="colorPrimaryDark">#3f8ab5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="zaranda">#9dfde109</color>
+    <color name="restaurant">#3f1ebcdf</color>
+    <color name="palace">#98f99806</color>
+    <color name="multi">#bcfd2509</color>
+</resources>

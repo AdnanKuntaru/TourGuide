@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="tab_text_1">Multi</string>
+    <string name="tab_text_2">Palace</string>
+    <string name="tab_text_3">Restaurant</string>
+    <string name="tab_text_4">Zaranda</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="palace_date">Build in 19th century</string>
+    <string name="palace_builder">Build by Babban Gwani</string>
+    <string name="palace">Emir Palace</string>
+    <string name="palace_address">Near prison service Bauchi </string>
+    <string name="renovate">Renovated by Governor Ahmad Mu`azu in 2005 </string>
+    <string name="mud"> This means most of older build was destroy </string>
+
+    <string name="zaranda">Zaranda Hotel</string>
+    <string name="location">Location: Jos Road</string>
+    <string name="size">It has 184 rooms</string>
+    <string name="social">And with full of social amenities</string>
+    <string name="price">Price is base on the category of the room.</string>
+    <string name="category">Categories of rooms include executives, luxury and
+    presidential</string>
+    <string name="time">Time of Operation</string>
+    <string name="operate">It operate 24/7</string>
+
+    <string name="multi">Multi Purpose</string>
+    <string name="opening">Opening 10 am to 10 pm daily</string>
+    <string name="event">Popular event center in the Bauchi city</string>
+    <string name="id">Opposite Wunti Market, Bauchi</string>
+    <string name="popular">Popular traditional event include sport, dancing and cultural drumming</string>
+    <string name="attendent">Attendent include children and adult, men and women</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ahmad">Ahmad Bello way No: 20, Bauchi</string>
+    <string name="daam">Da`am Restaurant</string>
+    <string name="yan_doka">Address: Mai Goro Plaza, Yan Doka Road, Bauchi.</string>
+    <string name="space_care">Space Care</string>
+    <string name="insuarance">Addres near Insuarance House, Yan Doka Road, Bauchi</string>
+    <string name="alhayat">Al` Hayat Restaurents</string>
+    <string name="nigeria">Adress Ahmad Bello way Bauchi, Nigeria</string>
+    <string name="trophical">Trophical Restaurant</string>
+    <string name="mai_goro">Address: Yan doka raod opposite Mai Goro Plaza</string>
+    <string name="mr">Mr Bigg`s restaurant</string>
+    <string name="state">Opposite state securerity service office 74022, Bauchi.</string>
+    <string name="shafa">Shafa Fuel Station restaurant</string>
+    <string name="along">Along Maiduguri By pass Bauchi.</string>
+
+</resources>
